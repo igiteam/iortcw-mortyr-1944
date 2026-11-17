@@ -13,7 +13,9 @@ The project aims to recreate the atmosphere, environments, weapons, enemies, mis
 [https://wwasm.m-h.org.uk/](https://wwasm.m-h.org.uk/)
 
 ## Return To Castle Wolfeinstein - the base of the gameplay
-[![Return To Castle Wolfeinstein](https://raw.githubusercontent.com/igiteam/iortcw-mortyr-1944/refs/heads/master/rtcw.png)](https://www.youtube.com/watch?v=MAa3zVS4kXw)
+[![Return To Castle Wolfeinstein](https://raw.githubusercontent.com/igiteam/iortcw-mortyr-1944/refs/heads/master/rtcw.png)](https://www.youtube.com/watch?v=k3hbdcOPx64)
+
+[![Return To Castle Wolfeinstein](https://img.youtube.com/vi/aMYtjM03F4w/maxresdefault.jpg)](https://www.youtube.com/watch?v=aMYtjM03F4w&pp=ygUncmV0dXJuIHRvIGNhc3RsZSB3b2xmZW5zdGVpbiBtYVAgRURJVE9S)
 
 [![Mortyr 1944](https://img.youtube.com/vi/CEcHp6pn2Ro/maxresdefault.jpg)](https://www.youtube.com/watch?v=CEcHp6pn2Ro)
 
