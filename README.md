@@ -1,4 +1,43 @@
- ![iortcw logo](https://raw.githubusercontent.com/iortcw/iortcw/master/MP/misc/wolf128.png)                       
+# iortcw-mortyr-1944
+## Return To Castle Wolfeinstein - Mortyr 1944 Remake
+A fan-made remake project inspired by Mortyr 2093-1944, reimagining the classic World War II first-person shooter using the Return to Castle Wolfenstein (RTCW) engine.
+The project aims to recreate the atmosphere, environments, weapons, enemies, missions and gameplay of the original Mortyr 1944, taking advantage of the RTCW engine's capabilities and id Tech 3 technology.
+
+## Github Treeview
+[https://treegit.macosxjs.com/?url=igiteam/iortcw-mortyr-1944](https://treegit.macosxjs.com/?url=igiteam/iortcw-mortyr-1944)
+
+## Github Tree Api Direct JSON
+[https://api.github.com/repos/igiteam/iortcw-mortyr-1944/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/iortcw-mortyr-1944/git/trees/main?recursive=1)
+
+## Return To Castle Wolfeinsten Webassembly
+[https://wwasm.m-h.org.uk/](https://wwasm.m-h.org.uk/)
+
+## LEGO Spyrius - the base of the gameplay
+[![LEGO Spyrius](https://img.youtube.com/vi/MAa3zVS4kXw/maxresdefault.jpg)](https://www.youtube.com/watch?v=MAa3zVS4kXw)
+
+[![LEGO 6959 Spyrius Lunar Launch Site (1994)](https://img.youtube.com/vi/erT-Ar0LOGY/maxresdefault.jpg)](https://www.youtube.com/watch?v=erT-Ar0LOGY)
+
+
+---
+
+## WS11WineCX20.0.4 (macOS Big Sur 32-bit)
+
+[WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
+
+[![Wine Windows games on macOS](https://raw.githubusercontent.com/igiteam/igi1-macbook-3d-workstation/refs/heads/main/wine-engine-config.png)](https://github.com/igiteam/wine_engines)
+
+
+---
+
+ 
+## Reference links
+
+[https://github.com/igiteam/iortcw_linux_docker](https://github.com/igiteam/iortcw_linux_docker)
+
+[https://github.com/igiteam/rtcwcoop](https://github.com/igiteam/rtcwcoop)
+
+ 
+![iortcw logo](https://raw.githubusercontent.com/iortcw/iortcw/master/MP/misc/wolf128.png)                       
                                
 
 ## iortcw
