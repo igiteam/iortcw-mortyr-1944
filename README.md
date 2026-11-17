@@ -12,10 +12,12 @@ The project aims to recreate the atmosphere, environments, weapons, enemies, mis
 ## Return To Castle Wolfeinsten Webassembly
 [https://wwasm.m-h.org.uk/](https://wwasm.m-h.org.uk/)
 
-## LEGO Spyrius - the base of the gameplay
-[![LEGO Spyrius](https://img.youtube.com/vi/MAa3zVS4kXw/maxresdefault.jpg)](https://www.youtube.com/watch?v=MAa3zVS4kXw)
+## Return To Castle Wolfeinstein - the base of the gameplay
+[![Return To Castle Wolfeinstein](https://raw.githubusercontent.com/igiteam/iortcw-mortyr-1944/refs/heads/master/rtcw.png)](https://www.youtube.com/watch?v=MAa3zVS4kXw)
 
-[![LEGO 6959 Spyrius Lunar Launch Site (1994)](https://img.youtube.com/vi/erT-Ar0LOGY/maxresdefault.jpg)](https://www.youtube.com/watch?v=erT-Ar0LOGY)
+[![Mortyr 1944](https://img.youtube.com/vi/CEcHp6pn2Ro/maxresdefault.jpg)](https://www.youtube.com/watch?v=CEcHp6pn2Ro)
+
+[![Mortyr 1944)](https://raw.githubusercontent.com/igiteam/iortcw-mortyr-1944/refs/heads/master/mortyr1944.jpg)](https://archive.org/details/mortyr20931944usa)
 
 
 ---
@@ -32,10 +34,16 @@ The project aims to recreate the atmosphere, environments, weapons, enemies, mis
  
 ## Reference links
 
+[https://archive.org/details/mortyr20931944usa](https://archive.org/details/mortyr20931944usa)
+
+[https://archive.org/details/RCWUSA](https://archive.org/details/RCWUSA)
+
 [https://github.com/igiteam/iortcw_linux_docker](https://github.com/igiteam/iortcw_linux_docker)
 
 [https://github.com/igiteam/rtcwcoop](https://github.com/igiteam/rtcwcoop)
 
+
+---
  
 ![iortcw logo](https://raw.githubusercontent.com/iortcw/iortcw/master/MP/misc/wolf128.png)                       
                                
@@ -556,3 +564,42 @@ Significant contributions from
   * Tim Angus <tim@ngus.net>
   * Tony J. White <tjw@tjw.org>
   * Zachary J. Slater <zachary@ioquake.org>
+
+
+  
+---
+
+## Dev Environment
+
+**Official White Wii Remote With Nunchuk — Tested And Working — £14.99**
+[https://www.ebay.co.uk/itm/800847189353](https://www.ebay.co.uk/itm/800847189353)
+
+**Infrared Sensor Bar USB for Wii Emulator Remote Motion Detection Setup — £6.69**
+[https://www.ebay.co.uk/itm/227423830875](https://www.ebay.co.uk/itm/227423830875)
+
+**Apple MacBook Pro Retina 15in (2014) i7 2.8GHz 16GB 1TB SSD GT 750M — £120.30**
+[https://www.ebay.co.uk/itm/800844561513](https://www.ebay.co.uk/itm/800844561513)
+
+**WS11WineCX20.0.4 (Wine engine)**
+[https://igiteam.github.io/wine_engines/](https://igiteam.github.io/wine_engines/)
+
+**Official Genuine Sony PS3 PlayStation 3 DualShock 3 Wireless Controller Black — £19.99**
+[https://www.ebay.co.uk/itm/840031043465](https://www.ebay.co.uk/itm/840031043465)
+
+**Amazon Basics 4K HDMI Cable 3m — 18Gbps High Speed with Ethernet, 4K@60Hz, 2160p — £8.44**
+[https://www.ebay.co.uk/itm/327352257557](https://www.ebay.co.uk/itm/327352257557)
+
+**wiimote_nunchuk_macosx**
+[https://github.com/igiteam/wiimote-nunchuk](https://github.com/igiteam/wiimote-nunchuk)
+
+**xbox360_input_gui_py**
+[https://github.com/igiteam/xbox360_input_gui_py](https://github.com/igiteam/xbox360_input_gui_py)
+
+**logitec_mx_mouse_3_macos**
+[https://github.com/igiteam/logitec_mx_mouse_3_macos](https://github.com/igiteam/logitec_mx_mouse_3_macos)
+
+**igi1-macbook-3d-workstation**
+[https://github.com/igiteam/igi1-macbook-3d-workstation](https://github.com/igiteam/igi1-macbook-3d-workstation)
+
+---
+
